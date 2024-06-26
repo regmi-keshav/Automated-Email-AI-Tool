@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "@azure/msal-node": "^2.9.2",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "@types/node": "^20.14.9",
     "bullmq": "^5.8.2",
+    "dotenv": "^16.4.5",
     "googleapis": "^140.0.1",
     "openai": "^4.52.1",
     "ts-node": "^10.9.2",
